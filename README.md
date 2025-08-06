@@ -1,2 +1,3 @@
 # ecommerce-backend-design
-A backend code for Book Store
+A backend api for Book Store project build in Django(python framework for backend).
+
